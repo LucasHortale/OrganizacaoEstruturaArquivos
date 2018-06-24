@@ -1,0 +1,10 @@
+O código consiste em ler dois arquivos csv do programa bolsa família. 
+
+Um de janeiro/2017 e outro de dezembro de 2017.
+
+Após ler os arquivos, o programa compara os dois (um indexado e outro percorrido).
+
+Após comparar, cria um arquivo de texto onde apenas as pessoas que aparecem nos dois meses estão incluídas.
+
+Após isso, o programa lê o arquivo de texto.
+
